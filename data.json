@@ -1,0 +1,8 @@
+{
+    "categories" : [
+        {"id":1, "libelle":"HAIR CARE"},
+        {"id":2, "libelle":"SKIN CARE"},
+        {"id":3, "libelle":"MAKEUP"},
+        {"id":4, "libelle":"FRAGRANCE"}
+    ]
+}
